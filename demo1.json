@@ -10,7 +10,7 @@
         "Basic",
         "Standard"
       ],
-      "defaultValue": "Shared"
+      "defaultValue": "Free"
     },
     "App Service PlanWorkerSize": {
       "type": "string",
